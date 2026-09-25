@@ -26,7 +26,7 @@ module.exports = {
 
         langs: {
                 en: {
-                        notFound: "No commands found for %1".",
+                        notFound: "No commands found for %1.",
                         notYourReply: "Not your reply.",
                         invalidSelection: "Invalid selection! Please enter a valid number.",
                         error: "API error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139"
