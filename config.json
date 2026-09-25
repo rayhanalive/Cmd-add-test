@@ -16,12 +16,12 @@
 	"nickNameBot": "Hinata Bot",
 	"prefix": "!",
 	"adminOnly": {
-		"enable": false,
+		"enable": true,
 		"ignoreCommand": []
 	},
-	"adminBot": ["61589591233031"],
+	"adminBot": ["61593254545124"],
 	"whiteListMode": {
-		"enable": false,
+		"enable": true,
 		"whiteListIds": [],
 		"notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
 	},
@@ -113,7 +113,7 @@
 	},
 	"hideNotiMessage": {
 		"commandNotFound": false,
-		"adminOnly": false,
+		"adminOnly": true,
 		"threadBanned": false,
 		"userBanned": false,
 		"needRoleToUseCmd": false,
